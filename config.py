@@ -1,0 +1,5 @@
+usename='Prajyotspam'
+password='Prajyot@88841'
+account='zr44032.ap-south-1'
+warehouse='compute_wh'
+database='INTERN'
